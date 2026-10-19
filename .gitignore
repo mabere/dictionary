@@ -28,6 +28,7 @@
 /vendor
 /database/*.sqlite
 /database/*.sqlite-journal
+/database/imports/
 Homestead.json
 Homestead.yaml
 Thumbs.db
